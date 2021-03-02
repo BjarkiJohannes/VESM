@@ -6,3 +6,5 @@
 * Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman? Komdu með dæmi. Það skemmtilega við Arduino er mikið magn af kóða og skjöldum sem þegar eru til og virka. Vandamálið með Arduino er lítill örgjörvahraði, takmarkað minni osfrv. Svo að nota Arduino og Raspberry Pi geturðu haft það besta frá báðum heimum. Tengdu skynjarana og skjöldinn við Arduino og fáðu Raspberry Pi til að takast á við hluti eins og notendaviðmót, nettengingar, netþjóna o.fl.
 
 #3.2
+*[Kóðin fyrir arduino og raspberry](https://github.com/BjarkiJohannes/VESM/blob/main/hello.py)
+*[Kóðin fyrir arduino og raspberry](https://streamable.com/invqq5)
