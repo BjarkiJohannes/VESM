@@ -7,4 +7,5 @@
 
 #3.2
 *[Kóðin fyrir arduino og raspberry](https://github.com/BjarkiJohannes/VESM/blob/main/hello.py)
+
 *[Kóðin fyrir arduino og raspberry](https://streamable.com/invqq5)
