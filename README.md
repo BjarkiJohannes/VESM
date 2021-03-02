@@ -12,7 +12,11 @@
 *[myndband 3.2](https://streamable.com/fi0aka)
 
 #3.3
+*[raspberry kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33.py)
+
+*[arduino kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33ardu.py)
 
 *[myndband 3.3](https://streamable.com/261ub0)
 
 *3.4
+
