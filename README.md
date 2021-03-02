@@ -9,4 +9,10 @@
 
 *[Kóðin fyrir arduino og raspberry](https://github.com/BjarkiJohannes/VESM/blob/main/hello.py)
 
-*[Kóðin fyrir arduino og raspberry](https://streamable.com/invqq5)
+*[myndband 3.2](https://streamable.com/fi0aka)
+
+#3.3
+
+*[myndband 3.3](https://streamable.com/261ub0)
+
+*3.4
