@@ -21,3 +21,7 @@
 
 *3.4
 
+* [Bluetooth kóði](https://github.com/BjarkiJohannes/VESM/blob/main/bluetooth.py)
+* [skjal](https://github.com/BjarkiJohannes/VESM/blob/main/skj)
+
+
