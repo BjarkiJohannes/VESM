@@ -7,17 +7,17 @@
 
 #3.2
 
-*[Kóðin fyrir arduino og raspberry](https://github.com/BjarkiJohannes/VESM/blob/main/hello.py)
+* [Kóðin fyrir arduino og raspberry](https://github.com/BjarkiJohannes/VESM/blob/main/hello.py)
 
-*[myndband 3.2](https://streamable.com/fi0aka)
+* [myndband 3.2](https://streamable.com/fi0aka)
 
 #3.3
 
-*[raspberry kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33.py)
+* [raspberry kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33.py)
 
-*[arduino kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33ardu.py)
+* [arduino kóði](https://github.com/BjarkiJohannes/VESM/blob/main/33ardu.py)
 
-*[myndband 3.3](https://streamable.com/261ub0)
+* [myndband 3.3](https://streamable.com/261ub0)
 
 *3.4
 
