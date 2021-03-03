@@ -57,6 +57,6 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 
 * [Myndband virkni verkefni](https://streamable.com/rod4hy)
 
-* [Kóði fyrir fyrsta]()
+* [Kóði fyrir fyrsta](https://github.com/BjarkiJohannes/VESM/blob/main/first.ino)
 
-* [Kóði fyrir anna]()
+* [Kóði fyrir anna](https://github.com/BjarkiJohannes/VESM/blob/main/second.ino)
