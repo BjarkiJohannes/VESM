@@ -37,3 +37,7 @@ Ekkert flókið netfangakerfi eins og I2C.
 Hærri gagnaflutningshraði en I2C (næstum tvöfalt hraðar)
 Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á sama tíma.
 
+# 3.9 
+
+* [Myndaband 3.9 virkni](https://streamable.com/pbaqxw)
+
