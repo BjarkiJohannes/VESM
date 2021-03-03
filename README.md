@@ -47,7 +47,11 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 
 # 3.10
 
-[Myndband virkni](https://streamable.com/08cfmf)
-[kóði]()
+* [Myndband virkni](https://streamable.com/08cfmf)
+
+* [kóði reciever](https://github.com/BjarkiJohannes/VESM/blob/main/reciever.ino)
+
+* [kóði transmitter](https://github.com/BjarkiJohannes/VESM/blob/main/transmitter.ino)
+
 
 
