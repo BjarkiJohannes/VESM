@@ -45,4 +45,9 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 
 * [Slave kóðin](https://github.com/BjarkiJohannes/VESM/blob/main/slave.ino)
 
+# 3.10
+
+[Myndband virkni](https://streamable.com/08cfmf)
+[kóði]()
+
 
