@@ -60,3 +60,15 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 * [Kóði fyrir fyrsta](https://github.com/BjarkiJohannes/VESM/blob/main/first.ino)
 
 * [Kóði fyrir anna](https://github.com/BjarkiJohannes/VESM/blob/main/second.ino)
+
+## Verkefni 4
+
+# 4.1
+
+* [myndband](https://streamable.com/b48n3a)
+
+* [kóði](https://github.com/BjarkiJohannes/VESM/blob/main/adafruit.py)
+
+# 4.2 
+
+* 
