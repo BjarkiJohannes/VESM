@@ -72,3 +72,5 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 # 4.2 
 
 * [kóði](https://github.com/BjarkiJohannes/VESM/blob/main/relay.py) 
+
+*  [myndband](https://streamable.com/drz212)
