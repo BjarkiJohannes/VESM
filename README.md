@@ -53,5 +53,10 @@ Aðskilja MISO og MOSI línur, svo hægt sé að senda og taka við gögnum á s
 
 * [kóði transmitter](https://github.com/BjarkiJohannes/VESM/blob/main/transmitter.ino)
 
+# 3.11
 
+* [Myndband virkni verkefni](https://streamable.com/rod4hy)
 
+* [Kóði fyrir fyrsta]()
+
+* [Kóði fyrir anna]()
